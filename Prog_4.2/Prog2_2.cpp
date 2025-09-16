@@ -20,6 +20,7 @@ int main()
     // If the average is greater than 95, congratulate the user.
     if (average > 95)
         cout << "Congratulations! That's a high score!\n";
+        cout << "Congratulations! I am super happy\n";
 
     return 0;
 }
